@@ -1,0 +1,1 @@
+CREATE TABLE app_state (id INTEGER PRIMARY KEY, payload TEXT NOT NULL);

@@ -1,0 +1,131 @@
+{
+  "mode": "direct",
+  "products": [
+    {
+      "id": "veil-1",
+      "category": "clothes",
+      "name": {
+        "et": "Loor I",
+        "en": "Veil I"
+      },
+      "description": {
+        "et": "Loorimudel 1. Täpsed mõõdud ja foto lisanduvad.",
+        "en": "Veil style 1. Exact dimensions and photograph will be added."
+      },
+      "price": 70,
+      "stock": 1
+    },
+    {
+      "id": "veil-2",
+      "category": "clothes",
+      "name": {
+        "et": "Loor II",
+        "en": "Veil II"
+      },
+      "description": {
+        "et": "Loorimudel 2. Täpsed mõõdud ja foto lisanduvad.",
+        "en": "Veil style 2. Exact dimensions and photograph will be added."
+      },
+      "price": 70,
+      "stock": 1
+    },
+    {
+      "id": "candle-1",
+      "category": "table",
+      "name": {
+        "et": "Küünlatops · suurus 1",
+        "en": "Candle holder · size 1"
+      },
+      "description": {
+        "et": "Küünlatops, suurus 1. Täpsed mõõdud lisanduvad.",
+        "en": "Candle holder, size 1. Exact dimensions will be added."
+      },
+      "price": 3,
+      "stock": 12
+    },
+    {
+      "id": "candle-2",
+      "category": "table",
+      "name": {
+        "et": "Küünlatops · suurus 2",
+        "en": "Candle holder · size 2"
+      },
+      "description": {
+        "et": "Küünlatops, suurus 2. Täpsed mõõdud lisanduvad.",
+        "en": "Candle holder, size 2. Exact dimensions will be added."
+      },
+      "price": 3,
+      "stock": 12
+    },
+    {
+      "id": "candle-3",
+      "category": "table",
+      "name": {
+        "et": "Küünlatops · suurus 3",
+        "en": "Candle holder · size 3"
+      },
+      "description": {
+        "et": "Küünlatops, suurus 3. Täpsed mõõdud lisanduvad.",
+        "en": "Candle holder, size 3. Exact dimensions will be added."
+      },
+      "price": 3,
+      "stock": 12
+    },
+    {
+      "id": "candle-4",
+      "category": "table",
+      "name": {
+        "et": "Küünlatops · suurus 4",
+        "en": "Candle holder · size 4"
+      },
+      "description": {
+        "et": "Küünlatops, suurus 4. Täpsed mõõdud lisanduvad.",
+        "en": "Candle holder, size 4. Exact dimensions will be added."
+      },
+      "price": 3,
+      "stock": 12
+    },
+    {
+      "id": "candle-5",
+      "category": "table",
+      "name": {
+        "et": "Küünlatops · suurus 5",
+        "en": "Candle holder · size 5"
+      },
+      "description": {
+        "et": "Küünlatops, suurus 5. Täpsed mõõdud lisanduvad.",
+        "en": "Candle holder, size 5. Exact dimensions will be added."
+      },
+      "price": 3,
+      "stock": 12
+    },
+    {
+      "id": "wedding-arch",
+      "category": "large",
+      "name": {
+        "et": "Pulmakaar",
+        "en": "Wedding arch"
+      },
+      "description": {
+        "et": "Pulmakaar tseremoonia jaoks. Mõõdud ja transpordi üksikasjad täpsustatakse enne üleandmist.",
+        "en": "An arch for your ceremony. Dimensions and transport details are confirmed before handover."
+      },
+      "price": 30,
+      "stock": 1
+    },
+    {
+      "id": "guestbook-phone",
+      "category": "table",
+      "name": {
+        "et": "Külalisteraamatu telefon",
+        "en": "Audio guestbook telephone"
+      },
+      "description": {
+        "et": "Telefon külaliste häälsõnumite salvestamiseks. Mälukaart on komplektis.",
+        "en": "A telephone for recording voice messages from your guests. Memory card included."
+      },
+      "price": 30,
+      "stock": 1
+    }
+  ]
+}

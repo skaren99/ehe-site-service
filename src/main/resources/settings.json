@@ -1,0 +1,54 @@
+{
+  "headline": {
+    "et": "Ehedad hetked. Ehedad emotsioonid.",
+    "en": "Genuine moments. Genuine emotions."
+  },
+  "leader": {
+    "name": "Karen",
+    "et": "EHE Eventsi juht. Kirjuta mulle oma ideest ja loome koos sinu sündmuse.",
+    "en": "Head of EHE Events. Tell me your idea and let’s plan your event together."
+  },
+  "pricing": {
+    "packages": {
+      "half": 1080,
+      "full": 2000,
+      "coordination": 760
+    },
+    "transport": {
+      "local": 20,
+      "mainland": 50,
+      "hiiu": 70,
+      "islands": 100
+    },
+    "decor": {
+      "mini": [800, 5],
+      "midi": [1200, 10],
+      "maxi": [2500, 20]
+    },
+    "extraHour": 60,
+    "lateHour": 60,
+    "assistant": 500,
+    "assistantFrom": 100,
+    "visit": 100,
+    "website": 200,
+    "dinner": 8,
+    "partyPoints": [
+      [10, 320],
+      [30, 450],
+      [60, 600],
+      [80, 800],
+      [100, 1000],
+      [200, 1500],
+      [300, 2000],
+      [400, 2500],
+      [500, 3000]
+    ],
+    "decorationPoints": [
+      [30, 100],
+      [100, 300],
+      [200, 500],
+      [400, 800],
+      [500, 1000]
+    ]
+  }
+}
